@@ -54,12 +54,19 @@ This policy should be read alongside our [privacy policy](https://www.raspberryp
 - Having  an **annual Board review** of RPF safeguarding performance, policy, and procedures.
 
 **Contact details for designated safeguarding leads:** 
+
 **Overall RPF:** Maria Quevedo, maria@raspberrypi.org
+
 **Code Club:**  UK/ROI: Lorna Gibson, lorna@raspberrypi.org 
+
 rest of the world: James Aslett, james.aslett@codeclub.org.uk
+
 **CoderDojo:** Sonja Bienert, sonja@raspberrypi.org
+
 **Raspberry Jams:** Tom Hadfield, tom@raspberrypi.org
+
 **Events:** Helen Drury, helen.drury@raspberrypi.org
-**Foundation educators:** Marc Scott, [marc@raspberrypi.org](
+
+**Foundation educators:** Marc Scott, marc@raspberrypi.org
 
 Trustee with lead responsibility for safeguarding: Sherry Coutu
