@@ -59,7 +59,7 @@ This policy should be read alongside our [privacy policy](https://www.raspberryp
 
 **Code Club:**  UK/ROI: Lorna Gibson, lorna@raspberrypi.org 
 
-                rest of the world: James Aslett, james.aslett@codeclub.org.uk
+**Code Club:**  Rest of the world: James Aslett, james.aslett@codeclub.org.uk
 
 **CoderDojo:** Sonja Bienert, sonja@raspberrypi.org
 
